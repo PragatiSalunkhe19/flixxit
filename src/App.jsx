@@ -12,7 +12,7 @@ import Details from "./pages/details/Details";
 import SearchResult from "./pages/searchResult/SearchResult";
 import Explore from "./pages/explore/Explore";
 
-import PageNotFound from "src/pages/404/PageNotFound.jsx";
+import PageNotFound from "./pages/404/PageNotFound";
 
 function App() {
   const dispatch = useDispatch();
